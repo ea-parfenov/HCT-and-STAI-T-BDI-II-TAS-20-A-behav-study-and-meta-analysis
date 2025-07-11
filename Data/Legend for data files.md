@@ -1,0 +1,38 @@
+# Legend for “Articles - BDI-II.tsv”, “Articles - STAI-T.tsv” and “Articles - TAS-20.tsv”
+
+- ID: first author and date:
+  - (1), (2), (3), (4) - number of the study of this author that year
+  - (c.) - clinical population
+  - (h.) - healthy population
+  - Exp1…Exp6 - number of the experiment in this study
+  - (c.1), (c.2), (c.3) - different clinical groups
+- Article. The article number. The same number means that one research had several experiments/studies
+- Reference: in-text references
+- Title: title of the article
+- Year: year of publication
+- Participants: population type, either healthy or patients
+- Formula. The formula used to compute the HCT performance
+  - 0 – original: the mean of Σ (1–(|actual heartbeats – reported heartbeats|)/actual heartbeats
+  - If other - specify it 
+- Formula_type:
+  - 0 – original
+  - 1 – any other
+- Correlation: correlation coefficient
+- Corrected_r: In cases when the HCT scores were expressed as error scores (i.e., the higher the scores, the lower the accuracy in detecting heartbeats), the correlation coefficient was inversed
+- r_nature. How the r-value was obtained
+  - 0 – r value was extracted from a study or manually calculated (7 studies)
+  - 1 – The point-biserial correlation was calculated based on the means, standard deviations and group sizes
+- N_sub: sample size
+- %Women: the ratio of women to men
+- Instructions_orig:
+  - 0 – Estimate: The authors told participants that they had to estimate the number of heartbeats that occurred during different time intervals.
+  - 1 – Count: The authors told the participants that they had to count their heartbeats over different time intervals.
+  - 2 – Count the felt heartbeats: the authors told the participants that they had only to count the felt beats.
+  - 3 – Count the felt heartbeats and do not guess: the authors told the participants that they had only count the felt beats and not estimate.
+- Instructions_comb:
+  - 1 – a combination of 0 (Estimate) and 1 (Count)
+  - 2 – a combination of 2 (Count the felt heartbeats) and 3 (Count the felt heartbeats and do not guess)
+- N_trials: number of the HCT trials
+- Time_intervals: time intervals used in the HCT trials. (x2) number of times the same intervals were repeated
+- Questionnaire: name of the questionnaire used in the study
+- Variance: the variance of the correlation coefficient
