@@ -10,7 +10,8 @@ and alexithymia: A behavioural study and meta-analysis" project.
 
 ## Data
 "Articles - TAS-20.tsv", "Articles - STAI-T.tsv" and "Articles - BDI-II.tsv" contain studies included in the analysis
-of the relationships between the HCT and TAS-20, STAI-T and BDI-II respectively.  
+of the relationships between the HCT and TAS-20, STAI-T and BDI-II respectively.
+"Legend for data files.md" - legend correspoding to the files mentioned above
 "Articles_lilst.tsv" - list of all studies inlcuded in the meta-analysis, corresponds to the Table 1
 
 The following data are copies of publicly available datasets for which effects sizes (correlation coefficients) 
