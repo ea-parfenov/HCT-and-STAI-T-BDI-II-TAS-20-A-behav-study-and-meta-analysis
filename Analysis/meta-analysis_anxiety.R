@@ -94,8 +94,8 @@ I_inf
 
 ## Forest plot ====
 colour_palette <- c(
-  "healthy" = '#66c2a5',
-  "patients" = '#fc8d62'
+  "patients" = '#fc8d62',
+  "healthy" = '#66c2a5'
 )
 # Assign population type to the specific colours
 colout_colours <- colour_palette[res$data$Participants]
