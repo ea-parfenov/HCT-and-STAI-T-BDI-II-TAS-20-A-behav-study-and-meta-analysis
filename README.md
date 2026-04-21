@@ -1,6 +1,5 @@
 # HCT-and-STAI-T-BDI-II-TAS-20-A-behav-study-and-meta-analysis
-Scripts for "Robustness of the relationship between the heartbeat counting task and measures of anxiety, depression, 
-and alexithymia: A behavioural study and meta-analysis" project. 
+Scripts for "Testing the correlation between the heartbeat counting task and anxiety, depression, and alexithymia scales: A behavioural study and meta-analysis"
 
 ## Analysis
 - "Correlations.py" calculates correlation coefficients from publicly available datasets of seven stuides  
